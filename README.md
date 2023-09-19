@@ -28,6 +28,8 @@ Este repositorio se utiliza para llevar un registro de mis tareas del curso de S
 
 [![Asciinema](https://asciinema.org/a/mrzwe8ot3QR0q5mO4XDkEBIeG.png)](https://asciinema.org/a/mrzwe8ot3QR0q5mO4XDkEBIeG)
 
+[código del script](https://github.com/DiegoBermudez29/Tareas/blob/main/menu.sh)
+
 ## Tarea #995 - Crear un GIF explicativo
 
 - **Fecha de Entrega:** 19/09/23
@@ -42,4 +44,4 @@ Este repositorio se utiliza para llevar un registro de mis tareas del curso de S
 
 ---
 
-¡Gracias por visitar mi repositorio de tareas! Si tienes alguna pregunta o comentario, no dudes en contactarme.
+¡Gracias por visitar mi repositorio de tareas me gusta yoshhhh! Si tienes alguna pregunta o comentario, no dudes en contactarme.
