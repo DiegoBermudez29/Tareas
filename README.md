@@ -24,9 +24,9 @@ Este repositorio se utiliza para llevar un registro de mis tareas del curso de S
 ## Tarea #996 - Crear un Menú en Bash
 
 - **Fecha de Entrega:** 19/09/23
-- **Descripción:** En esta tarea, creé un menú en Bash que permite elegir entre la ejecución de diferentes scripts. Además, grabé la ejecución del script en asciinema y la incrusté en este README.
+- **Descripción:** En esta tarea, creé un menú en Bash que permite elegir entre la ejecución de diferentes scripts. Además, grabé la ejecución del script en Asciinema y la incrusté en este README.
 
-[![Asciinema](asciinema/tarea996.gif)](asciinema/tarea996.cast)
+[![Asciinema](https://asciinema.org/a/mrzwe8ot3QR0q5mO4XDkEBIeG.png)](https://asciinema.org/a/mrzwe8ot3QR0q5mO4XDkEBIeG)
 
 ## Tarea #995 - Crear un GIF explicativo
 
