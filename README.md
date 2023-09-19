@@ -35,7 +35,8 @@ Este repositorio se utiliza para llevar un registro de mis tareas del curso de S
 - **Fecha de Entrega:** 19/09/23
 - **Descripción:** En esta tarea, creé un GIF que explica un concepto relacionado con el curso de Sistemas Operativos. El GIF se encuentra a continuación:
 
-![GIF](gifs/tarea995.gif)
+![GIF](https://github.com/DiegoBermudez29/Tareas/raw/main/Logo%20Animado%20Tienda%20de%20Tecnolog%C3%ADa%20Geom%C3%A9trico%20Verde%20Ne%C3%B3n.gif)
+
 
 ## Tarea #994 - Realizar Bash Scripts
 
