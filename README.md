@@ -43,6 +43,6 @@ Este repositorio se utiliza para llevar un registro de mis tareas del curso de S
 - **Fecha de Entrega:** Pendiente
 - **Descripción:** Durante la clase, completé los 18 scripts de Bash que se encuentran en el PDF "shell_linux.pdf" y los subí a este repositorio.
 
-Carpeta porno albino con fetiches extremos por dradgones mi little ponny ![CARPETA](https://github.com/DiegoBermudez29/Tareas/tree/main/Actividad1)
+ ![CARPETA](https://github.com/DiegoBermudez29/Tareas/tree/main/Actividad1)
 
 ¡Gracias por visitar mi repositorio de tareas me gusta yoshhhh! Si tienes alguna pregunta o comentario, no dudes en contactarme.
