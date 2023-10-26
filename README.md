@@ -53,6 +53,7 @@ Este repositorio se utiliza para llevar un registro de mis tareas del curso de S
 - **Descripción:** Niveles de Bandit.
 
 Puedes encontrar los comandos utilizados en el archivo de texto:
+
 - [Comandos Bandit 1-34]()
 
 ### Tarea #992 - Participar en el Hacktoberfest
@@ -78,7 +79,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Creal Jail.
 
-  https://github.com/DanielGuzman321/Sistemas_Operativos/blob/604475f5ab8d8c4075a3d59d4ea9ee6f865a1cbc/jail.py#L1-L10
+
 
 
 
