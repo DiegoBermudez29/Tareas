@@ -1,0 +1,32 @@
+﻿
+import code
+
+# Define la respuesta correcta.
+respuesta_correcta = "ls"
+
+# Define una función para crear el "jail" y hacer una pregunta.
+def create_jail():
+    # Define las variables globales disponibles en el "jail".
+    jail_globals = {
+        '__builtins__': {},
+        'os': {},
+        'sys': {},
+        'code': {},
+        'open': open,
+        'print': print,
+        'respuesta_correcta': respuesta_correcta,
+    }
+
+    # Crea una instancia de la consola interactiva dentro del jail.
+    jail_console = code.InteractiveConsole(locals=jail_globals)
+
+    # Hace una pregunta y verifica la respuesta.
+    respuesta = input("Ingresa el comando para listar archivos y directorios: ")
+
+    if respuesta == respuesta_correcta:
+        print("¡Respuesta correcta!")
+    else:
+        print("Respuesta incorrecta. Intenta de nuevo.")
+
+if __name__ == '__main__':
+    create_jail()
