@@ -81,6 +81,10 @@ Puedes encontrar los comandos utilizados en el archivo de texto: [BANDIT](https:
 
 - **Descripción:** Creal Jail.
 
+  [Enlace al archivo de texto](https://github.com/DiegoBermudez29/Tareas/blob/main/jsjsjsjs.txt)
+  ![Captura de pantalla](https://github.com/DiegoBermudez29/Tareas/blob/main/Captura%20de%20pantalla%202023-10-26%20185347.png)
+
+
 
 
 
