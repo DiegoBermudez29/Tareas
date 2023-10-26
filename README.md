@@ -53,7 +53,7 @@ Este repositorio se utiliza para llevar un registro de mis tareas del curso de S
 - **Descripción:** Niveles de Bandit.
 
 Puedes encontrar los comandos utilizados en el archivo de texto:
-- [Comandos Bandit 1-34](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/68d80f767d91efbef25cb5e7a3ed09270a9d13b3/bandit.txt#L1-L4)
+- [Comandos Bandit 1-34]()
 
 ### Tarea #992 - Participar en el Hacktoberfest
 
@@ -62,7 +62,6 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 - **Descripción:** Participación en el evento Hacktoberfest. Enlace de registro y detalles adicionales disponibles en el tweet.
 
 
-[![An image of @danielguzman321's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danielguzman321)](https://holopin.io/@danielguzman321)
 
 
 ### Tarea #991 - Realizar los rooms de Linux Fundamentals de TryHackMe.
@@ -71,7 +70,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Rooms de Linux.
 
-[![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%20(1).png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%20(1).png)
+
 
 ### Tarea #990 - Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python.
 
@@ -81,7 +80,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
   https://github.com/DanielGuzman321/Sistemas_Operativos/blob/604475f5ab8d8c4075a3d59d4ea9ee6f865a1cbc/jail.py#L1-L10
 
-  ![image](https://github.com/DanielGuzman321/Sistemas_Operativos/assets/116816937/923f1498-fd57-4dac-864c-cd6436fc3296)
+
 
 
 ### Tarea #989 - Realizar el room de Bash Scripting de TYryHackMe.
@@ -90,7 +89,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Realizar Room.
 
-[![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)
+
 
 ### Tarea #988 - Ejercicio en Clase.
 
@@ -98,7 +97,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Realizar el ejercicio asignado durante la clase de hoy.
 
-[PDF](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/18.pdf)
+
 
 ### Tarea #987 - Laboratorio en Clase.
 
@@ -106,7 +105,6 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Realizar el laboratorio asignado durante la clase de hoy.
 
-[PDF](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/17.pdf)
 
 ### Tarea #986 - Instalaciones en Clase.
 
@@ -114,6 +112,6 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Realizar las isntalaciones asignadas durante la clase de hoy.
 
-![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Screenshot%20from%202023-10-26%2018-06-29.png)
+![Captura de pantalla](https://github.com/DiegoBermudez29/Tareas/blob/main/Screenshot%20from%202023-10-26%2018-06-29.jpg)
 
   
