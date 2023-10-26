@@ -62,6 +62,8 @@ Puedes encontrar los comandos utilizados en el archivo de texto: [BANDIT](https:
 
 - **Descripción:** Participación en el evento Hacktoberfest. Enlace de registro y detalles adicionales disponibles en el tweet.
 
+  ![IMG](https://github.com/DiegoBermudez29/Tareas/blob/main/Captura%20de%20pantalla%202023-10-26%20184733.png)
+
 
 
 
