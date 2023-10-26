@@ -52,9 +52,9 @@ Este repositorio se utiliza para llevar un registro de mis tareas del curso de S
 - **Fecha de entrega:** Fin del mes de Octubre.
 - **Descripción:** Niveles de Bandit.
 
-Puedes encontrar los comandos utilizados en el archivo de texto: [TEXTO](https://github.com/DiegoBermudez29/Tareas/blob/main/banditttttt.txt)
+Puedes encontrar los comandos utilizados en el archivo de texto: [BANDIT](https://github.com/DiegoBermudez29/Tareas/blob/main/banditttttt.txt)
 
-- [Comandos Bandit 1-34]()
+
 
 ### Tarea #992 - Participar en el Hacktoberfest
 
