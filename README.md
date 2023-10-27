@@ -73,6 +73,8 @@ Puedes encontrar los comandos utilizados en el archivo de texto: [BANDIT](https:
 
 - **Descripción:** Rooms de Linux.
 
+![IMG](https://github.com/DiegoBermudez29/Tareas/blob/main/JAIL.jpg)
+
 
 
 ### Tarea #990 - Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python.
@@ -95,6 +97,8 @@ Puedes encontrar los comandos utilizados en el archivo de texto: [BANDIT](https:
 - **Fecha de entrega:** Fin de cuatrimestre.
 
 - **Descripción:** Realizar Room.
+
+![Captura de pantalla](https://github.com/DiegoBermudez29/Tareas/blob/main/JAIL2.jpg  )
 
 
 
